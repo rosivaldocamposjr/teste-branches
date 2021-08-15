@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(236, 211, 211);
+    background-color: rgb(247, 157, 239);
 }
 
 main {
@@ -13,4 +13,19 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.514);
+}
+
+h1 {
+    font-size: 2em;
+    color: rgba(255, 0, 34, 0.596);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(44, 44, 167);
+}
+
+img.bola {
+    float: right;
+    width: 8em;
 }
